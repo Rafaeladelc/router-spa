@@ -1,0 +1,6 @@
+body { font-family: system-ui, sans-serif; max-width: 560px; margin: 2rem auto; padding: 0 1rem; }
+nav { display: flex; gap: 1rem; padding-bottom: .75rem; border-bottom: 2px solid #6b3fa0; margin-bottom: 1rem; }
+nav a { color: #6b3fa0; font-weight: 600; text-decoration: none; }
+nav a:hover { text-decoration: underline; }
+#app { padding: 1rem; border: 2px dashed #6b3fa0; border-radius: 8px; min-height: 4rem; }
+#cargada { font-family: monospace; font-size: .85rem; color: #666; }
